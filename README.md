@@ -24,8 +24,10 @@ Snowflake, DBT, Flink, Spark, Tableau and Airflow
 
 ## Model
 ![image info](./model.png)
+
 ## Future additions
 1. Add use-cases about the rental property.
 2. Add use cases about the avg spendings on home renovation.
 3. School Ratings
 4. Population + spending data around the given zip code.
+5. Extend across all counties of California, West Coast and finally across US.
